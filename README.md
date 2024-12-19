@@ -24,3 +24,15 @@
 - 🎯 Goal: to grow as a tech professional while balancing personal life and pursuing my dream of traveling the world.
 - 🐾 Fun fact: a pet mom passionate about learning with curiosity and creativity.
 
+<style>
+  /* Fundo animado com tons mais claros de roxo */
+  @keyframes animated-background {
+    0% { background-color: #E1B6FF; }
+    50% { background-color: #D6A0F3; }
+    100% { background-color: #E1B6FF; }
+  }
+
+  body {
+    animation: animated-background 10s infinite ease-in-out;
+  }
+</style>
