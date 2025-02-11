@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on data analysis, machine learning, or process automation.
-- 💬 I enjoy talking about technology, traveling, and great stories.
 - 📫 How to reach me: (https://www.linkedin.com/in/luizamagnani/)
 - 😄 Pronouns: her
-- 🎯 Goal: to grow as a tech professional while balancing my personal life and pursuing my dream of traveling the world.
-- 🐾 Fun fact: a pet mom passionate about learning with curiosity and creativity.
+
 ##
 <div>
   <a href="https://github.com/lumagnani">
