@@ -9,11 +9,13 @@
 - 🎯 Goal: to grow as a tech professional while balancing my personal life and pursuing my dream of traveling the world.
 - 🐾 Fun fact: a pet mom passionate about learning with curiosity and creativity.
 ##
-  <div>
-    <a href="https://github.com/lumagnani">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumagnani&show_icons=true&theme=blueberry&include_all_commits=true&countprivate=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagnani&layout=compact&langs_count=16&theme=blueberry"/>
-  </div>
+<div>
+  <a href="https://github.com/lumagnani">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumagnani&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&cache_seconds=60"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagnani&layout=compact&langs_count=16&theme=blueberry&cache_seconds=60"/>
+  </a>
+</div>
+
 
       
 ### Languages
