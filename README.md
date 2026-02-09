@@ -37,8 +37,6 @@ I enjoy transforming raw data into insights and building practical projects that
 
 ## 📌 Featured Projects
 
-📌 Featured Projects
-
 🔹 Data Cleaning & Preprocessing (Pandas, NumPy)  
 🔹 Exploratory Data Analysis (EDA & Data Visualization)  
 🔹 Machine Learning Fundamentals (Scikit-learn)
