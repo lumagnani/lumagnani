@@ -1,26 +1,55 @@
+<div align="center">
 
-![Animated Message](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=C8A2C8center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Luiza+Magnani.;Welcome+to+my+GitHub+profile.;Let's+collaborate+!+💻)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=2500&pause=1200&color=6FA4FC&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Luiza+Magnani;Junior+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Global+Opportunities" />
 
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on data analysis, machine learning, or process automation.
-- 📫 How to reach me: (https://www.linkedin.com/in/luizamagnani/)
-- 😄 Pronouns: her
+</div>
 
-##
-<div>
-  <a href="https://github.com/lumagnani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumagnani&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumagnani&layout=compact&langs_count=16&theme=blueberry&cache_seconds=60"/>
-  </a>
+---
+
+## 👩‍💻 About Me
+
+I'm a Junior Data Scientist focused on data cleaning, exploratory data analysis, and machine learning fundamentals.
+
+I enjoy transforming raw data into insights and building practical projects that solve real-world problems.
+
+- 🌍 Open to **international & remote opportunities**
+- 📊 Interests: Data Science, Analytics & Automation
+- 🧠 Tech stack: Python, SQL, Pandas, Power BI
+- 📫 LinkedIn: [luizamagnani](https://www.linkedin.com/in/luizamagnani/)
+
+---
+
+## 🛠️ Tech Stack (Data Science)
+
+<div align="center"><br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" />
+
 </div>
 
 
-      
-### Languages
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
 
+## 📌 Featured Projects
+
+📌 Featured Projects
+
+🔹 Data Cleaning & Preprocessing (Pandas, NumPy)  
+🔹 Exploratory Data Analysis (EDA & Data Visualization)  
+🔹 Machine Learning Fundamentals (Scikit-learn)
+
+➡️ Check my repositories for hands-on projects with clear documentation and reproducible analysis.
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
 
